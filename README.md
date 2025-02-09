@@ -1,39 +1,34 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  <<< Author notes: Viki >>>
 -->
 
-# GitHub Pages
+# Добро пожаловать на мой Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Добро пожаловать на мою личную страницу! Здесь я делюсь своими идеями и предлагаю консультационные услуги, помогая решать важные вопросы в разных сферах. Если вам нужна помощь или советы, не стесняйтесь обращаться!_
 
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
+  <<< Author notes: Viki >>>
 -->
 
-## Step 3: Customize your homepage
+## Обо мне: 
 
-_Nice work setting the theme! :sparkles:_
+_Привет, меня зовут Вики, я помощник и энтузиаст. На этом сайте вы найдете всю информацию о моих  и интересах. :sparkles:_
 
 You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
 
-### :keyboard: Activity: Create your homepage
+### :keyboard: Моя помощь: 
 
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Заявления в детские садики и оформление при получении места: "Помощь в подаче заявлений на места в детские садики и оформление всех необходимых документов для успешного получения места."
+2. Походы к докторам (Charité и т.д.) и помощь с документами: "Сопровождение при походах к врачам, в том числе в клинику Charité, а также помощь в сборе и оформлении медицинских документов."
+3. Оформление WSB для получения соц. жилья: "Помощь в оформлении WSB (Wohngeldbescheid) для получения социальной помощи по аренде жилья."
+4. Подготовка документов для получения 24 параграфа, ВНЖ и сопровождение: "Консультации и помощь в подготовке документов для получения ВНЖ, 24 параграфа и других разрешений на пребывание в Германии."
+5. Услуги переводчика: "Предоставление квалифицированных переводческих услуг для общения с государственными органами и другими учреждениями."
+6. Помощь при становлении на Jobcenter, соц. службу, Arbeitsagentur (центр занятости): "Сопровождение и помощь в регистрации в Jobcenter, подаче заявлений на получение социальной помощи и взаимодействии с центром занятости."
+
 
 <footer>
 
